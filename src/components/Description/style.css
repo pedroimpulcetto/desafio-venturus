@@ -1,0 +1,15 @@
+.corpo,
+.img,
+.desc,
+.icon {
+	display: inline-block;
+}
+
+.corpo {
+	text-align: left;
+}
+
+.title {
+	font-size: 18pt;
+	color: #3ac5a9;
+}

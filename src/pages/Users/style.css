@@ -7,9 +7,30 @@
 	opacity: 1;
 }
 
-.fixed,
-table th {
+table thead {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
+}
+
+img {
+	width: 80px;
+	opacity: 0.5;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.label {
+	font-size: 10pt;
+	color: gray;
+	margin-top: 20px;
+}
+
+.strong {
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+.icon {
+	display: inline-block;
 }

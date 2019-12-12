@@ -1,0 +1,57 @@
+main {
+	padding-bottom: 30px;
+}
+
+.fixed,
+table th {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+img {
+	width: 80px;
+	opacity: 0.5;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.label {
+	font-size: 10pt;
+	color: gray;
+	margin-top: 20px;
+}
+
+.strong {
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+.icon {
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 31%;
+}
+
+.help {
+	height: 110;
+}
+
+/* forms */
+
+.form-right,
+.form-left {
+	width: 49%;
+	display: inline-block;
+	padding: 20px;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.space {
+	margin-left: 10px;
+	margin-right: 10px;
+}
